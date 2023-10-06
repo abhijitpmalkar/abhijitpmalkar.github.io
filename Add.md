@@ -1,1 +1,1 @@
-AddReceipt
+Add Receipt
